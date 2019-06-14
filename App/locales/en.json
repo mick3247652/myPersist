@@ -1,0 +1,18 @@
+{
+  "user_profile": {
+    "firstNamePlaceholder": "First Name",
+    "lastNamePlaceholder": "Last Name"
+  },
+  "articles": {
+    "addArticleText": "Add article",
+    "testTitle": "My Article",
+    "addArticleTitle": "Add Article",
+    "deleteAllArticlesText": "Delete all articles",
+    "deleteAllArticlesTitle": "Delete all articles"
+  },
+  "alerts": {
+    "infoText": "Info",
+    "errorText": "Error"
+  }
+
+}

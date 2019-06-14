@@ -1,0 +1,18 @@
+{
+    "user_profile": {
+      "firstNamePlaceholder": "Имя",
+      "lastNamePlaceholder": "Фамилия"
+    },
+    "articles": {
+      "addArticleText": "Статья добавлена",
+      "testTitle": "Моя статья",
+      "addArticleTitle": "Добавить статью",
+      "deleteAllArticlesText": "Все статьи удалены",
+      "deleteAllArticlesTitle": "Удалить все статьи"
+    },
+    "alerts": {
+      "infoText": "Информация",
+      "errorText": "Ошибка"
+    }
+  }
+  
